@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+Pillow
+tqdm
+ultralytics
+# File and system utilities
+shutilwhich 
+
+
+
+
